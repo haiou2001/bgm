@@ -11,7 +11,7 @@ use App\Service;
 class ContractController extends Controller
 {
 	public function create(){
-		return view('cont/create');
+		return view('cont/create'); 
 	}
 
 	public function store(Request $request){

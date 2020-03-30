@@ -13,7 +13,7 @@
     <script type="text/javascript" src="{{asset('/status/js/xadmin.js')}}"></script>
 
     <script src="https://cdn.staticfile.org/html5shiv/r29/html5.min.js"></script>
-    <script src="https://cdn.staticfile.org/respond.js/1.4.2/respond.min.js"></script>
+    <script src="https://cdn.staticfile.org/respond.js/1.4.2/respond.min.js"></script> 
 
 </head>
 <body>
