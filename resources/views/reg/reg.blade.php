@@ -47,7 +47,7 @@
             </div>
             <div class="layui-form-item">
                 <label for="L_pass" class="layui-form-label">
-                    <span class="x-red">*</span>密码
+                    <span class="x-red">*</span>密码 
                 </label>
                 <div class="layui-input-inline">
                     <input type="password" id="L_pass" name="pwd" required="" lay-verify="pass"
